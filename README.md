@@ -1,7 +1,7 @@
 # Simon Game
  Creating the classic Simon Game using html, CSS, JS and jQuery
  
- 
+ ![Simon Game](Simon.png)
 
 ### What's the game about?
 It tests the retaining capacity of the player as they've to replicate the pattern that the Simon shows!
